@@ -67,9 +67,10 @@ p {
     text-transform: uppercase;
     letter-spacing: 0.5px;
     font-weight: 700;
-    padding: 12px 20px;
+    padding: 12px 28px;
     display: inline-block;
     outline: none;
+    margin-top: 25px;
 }
 
 a.menu-link { display: none; }
@@ -1584,4 +1585,11 @@ footer p a:hover {
     font-weight: 600;
     letter-spacing: 0.25px;
   }
+}
+.description{
+  font-size: large;
+  color: white;
+}
+.title{
+  color: white;
 }
